@@ -1,0 +1,77 @@
+{
+  "version": "2026-02-20",
+  "logos": [
+    {
+      "key": "action",
+      "displayName": "Action",
+      "url": "https://raw.githubusercontent.com/TUO-UTENTE/logo-catalog/main/logos/action.png",
+      "sha256": "447c81c2ae68c9ca3a6f663139c99b49894c2b1c4dd93334fcdb5facb9eadf8a"
+    },
+    {
+      "key": "blukids",
+      "displayName": "Blukids",
+      "url": "https://raw.githubusercontent.com/TUO-UTENTE/logo-catalog/main/logos/blukids.png",
+      "sha256": "e48193f692fc51ce2fa4d852e24a0ce33452c7e7abf87aa73e4b2a0b86148c4b"
+    },
+    {
+      "key": "bricoio",
+      "displayName": "Bricoio",
+      "url": "https://raw.githubusercontent.com/TUO-UTENTE/logo-catalog/main/logos/bricoio.png",
+      "sha256": "474d500320bc9baef6766cc697ea1a37d5e3f2d09ff8abc7951f72f2c2e52e4c"
+    },
+    {
+      "key": "brums",
+      "displayName": "Brums",
+      "url": "https://raw.githubusercontent.com/TUO-UTENTE/logo-catalog/main/logos/brums.png",
+      "sha256": "58640b4964112abe8a7014c89362db3260efdb795ceb05d935b26a9b95cda40e"
+    },
+    {
+      "key": "carrefour",
+      "displayName": "Carrefour",
+      "url": "https://raw.githubusercontent.com/TUO-UTENTE/logo-catalog/main/logos/carrefour.png",
+      "sha256": "ac3d73367000b65f1dbed42ac99947b0c964321e9a59c6e082ff173ca15c2581"
+    },
+    {
+      "key": "douglas",
+      "displayName": "Douglas",
+      "url": "https://raw.githubusercontent.com/TUO-UTENTE/logo-catalog/main/logos/douglas.png",
+      "sha256": "94260da7205f95344d7693d6c90008cc76e81cdd6ef0b37ea6e2c6d5d19510e7"
+    },
+    {
+      "key": "eataly",
+      "displayName": "Eataly",
+      "url": "https://raw.githubusercontent.com/TUO-UTENTE/logo-catalog/main/logos/eataly.png",
+      "sha256": "0cfa841a394c4b7e952e37b31446f990ce622987bc1717caa51212e32822e514"
+    },
+    {
+      "key": "esselunga",
+      "displayName": "Esselunga",
+      "url": "https://raw.githubusercontent.com/TUO-UTENTE/logo-catalog/main/logos/esselunga.png",
+      "sha256": "cbb312806eef2ff8233b5bb1d688bd572680653380d4607894fa293224b1404c"
+    },
+    {
+      "key": "lidl",
+      "displayName": "Lidl",
+      "url": "https://raw.githubusercontent.com/TUO-UTENTE/logo-catalog/main/logos/lidl.png",
+      "sha256": "6cd457050dfc9f3a8eaf6250df1bb08615936f68a2f96e3c71906ceee43b6197"
+    },
+    {
+      "key": "obi",
+      "displayName": "Obi",
+      "url": "https://raw.githubusercontent.com/TUO-UTENTE/logo-catalog/main/logos/obi.png",
+      "sha256": "99abae30b8535f3c39a2146b045770a5fec537e9593d490161f89393d928d5e2"
+    },
+    {
+      "key": "reclame",
+      "displayName": "Reclame",
+      "url": "https://raw.githubusercontent.com/TUO-UTENTE/logo-catalog/main/logos/reclame.png",
+      "sha256": "2f92ce8befa15bdefbddb6b4e623c4e11b07c728224253f31e662a029854fd61"
+    },
+    {
+      "key": "tigros",
+      "displayName": "Tigros",
+      "url": "https://raw.githubusercontent.com/TUO-UTENTE/logo-catalog/main/logos/tigros.png",
+      "sha256": "56647dd24222bdd5402e271778ba7fd7e701e4e5d8ce5f08c4b15cb2629fc502"
+    }
+  ]
+}
