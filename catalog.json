@@ -1,77 +1,623 @@
 {
-  "version": "2026-02-20",
+  "version": "2026-02-25",
   "logos": [
+    {
+      "key": "acquaesapone",
+      "displayName": "Acqua e Sapone",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/acquaesapone.png",
+      "sha256": "ee4a4c50b0c97fea7bb9b7c5333028c56f4260a2424a7f7a0b0ebea31cf9d4d8"
+    },
     {
       "key": "action",
       "displayName": "Action",
-      "url": "https://raw.githubusercontent.com/TUO-UTENTE/logo-catalog/main/logos/action.png",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/action.png",
       "sha256": "447c81c2ae68c9ca3a6f663139c99b49894c2b1c4dd93334fcdb5facb9eadf8a"
+    },
+    {
+      "key": "agribrianza",
+      "displayName": "Agribrianza",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/agribrianza.jpg",
+      "sha256": "71261c9b32ccb1156241bc79053e35176745332c20fc89fabdc75cd1ac32c187"
+    },
+    {
+      "key": "ali",
+      "displayName": "Ali",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/ali.png",
+      "sha256": "f58a3503fdd80e911db890d3aecbd7b0644b4451a56d64707dddfe067e2eac96"
+    },
+    {
+      "key": "bennet",
+      "displayName": "Bennet",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/bennet.png",
+      "sha256": "662970c497c3acf0ca36dff7ac36b1e346ccd1988283e563dc54d2c532fbb6a3"
+    },
+    {
+      "key": "bialetti",
+      "displayName": "Bialetti",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/bialetti.png",
+      "sha256": "afc516e3105d91635791caa6bb94c144f0ca14d09c6773de3f449f0611110583"
+    },
+    {
+      "key": "bipa",
+      "displayName": "Bipa",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/bipa.png",
+      "sha256": "498e62d632c2ceaea84f34d3a70ec482e4a028bddbae41198dd912f1dfd28c63"
     },
     {
       "key": "blukids",
       "displayName": "Blukids",
-      "url": "https://raw.githubusercontent.com/TUO-UTENTE/logo-catalog/main/logos/blukids.png",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/blukids.png",
       "sha256": "e48193f692fc51ce2fa4d852e24a0ce33452c7e7abf87aa73e4b2a0b86148c4b"
     },
     {
+      "key": "bofrost",
+      "displayName": "Bofrost",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/bofrost.png",
+      "sha256": "036bf53700a6ec0a0715ff708be9896d36e009ae098fc78c85d160dd07ca3b11"
+    },
+    {
+      "key": "booking",
+      "displayName": "Booking.com",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/booking.jpg",
+      "sha256": "a4acb07ef1a59c8c37e6881d51d189c8f01d57f453df8a6bf9664c9e3b630a47"
+    },
+    {
+      "key": "bricocenter",
+      "displayName": "Brico Center",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/bricocenter.png",
+      "sha256": "a20bebdf2d93391f128d7221ea9221c13d00f255a452b54c2731806de824bc65"
+    },
+    {
+      "key": "bricofer",
+      "displayName": "Bricofer",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/bricofer.png",
+      "sha256": "0984712d9afb3b4372f3f7c68ee3d1d977dd47a470ffdba3dbb666780e440da0"
+    },
+    {
       "key": "bricoio",
-      "displayName": "Bricoio",
-      "url": "https://raw.githubusercontent.com/TUO-UTENTE/logo-catalog/main/logos/bricoio.png",
+      "displayName": "Brico io",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/bricoio.png",
       "sha256": "474d500320bc9baef6766cc697ea1a37d5e3f2d09ff8abc7951f72f2c2e52e4c"
+    },
+    {
+      "key": "bricook",
+      "displayName": "Brico OK",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/BrikoOK.png",
+      "sha256": "6fb1171ec655d3c7b3628556d85a04571703102f036f6efa0b08fbc84c995f47"
     },
     {
       "key": "brums",
       "displayName": "Brums",
-      "url": "https://raw.githubusercontent.com/TUO-UTENTE/logo-catalog/main/logos/brums.png",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/brums.png",
       "sha256": "58640b4964112abe8a7014c89362db3260efdb795ceb05d935b26a9b95cda40e"
+    },
+    {
+      "key": "buffetti",
+      "displayName": "Buffetti",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/buffetti.jpg",
+      "sha256": "37c75a71e79acac2f1aa502ee6314f48f5d9bdb2cde18608e83a3daad4724fc6"
+    },
+    {
+      "key": "cad",
+      "displayName": "CAD",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/cad.jpeg",
+      "sha256": "29b77c5cc6f3ea6463417a26b8619e99a13d99b6c8d03f45809acb388c383abc"
+    },
+    {
+      "key": "caleffi",
+      "displayName": "Caleffi",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/caleffi.jpg",
+      "sha256": "821668a2ab78900e9da28567625fbed3dd7c66dd94cce0a55ee932c9c7f3d41e"
+    },
+    {
+      "key": "calzedonia",
+      "displayName": "Calzedonia",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/calzedonia.png",
+      "sha256": "d13ba5681e68a17a46b0beb48bc8b66bcede2e366593771bf9bf60269b1ee4d0"
+    },
+    {
+      "key": "capellopoint",
+      "displayName": "Capello Point",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/capellopoint.png",
+      "sha256": "8b225ae0dd9c30ef39b11c35ad114feb78c6ef166b4a7788018580b11983027a"
+    },
+    {
+      "key": "carpisa",
+      "displayName": "Carpisa",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/Carpisa.png",
+      "sha256": "87ca58607e72de50e8ecc2d71c751da5f5a2368f6f72901285038aaf34661c3b"
+    },
+    {
+      "key": "carpisayamamay",
+      "displayName": "Carpisa Yamamay",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/carpisa-yamamay.jpg",
+      "sha256": "7c8ac1ccfd9461a59ef006fe249e937df5fc55af7656ff08993823e942c66c1b"
     },
     {
       "key": "carrefour",
       "displayName": "Carrefour",
-      "url": "https://raw.githubusercontent.com/TUO-UTENTE/logo-catalog/main/logos/carrefour.png",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/carrefour.png",
       "sha256": "ac3d73367000b65f1dbed42ac99947b0c964321e9a59c6e082ff173ca15c2581"
+    },
+    {
+      "key": "carrera",
+      "displayName": "Carrera",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/carrera.png",
+      "sha256": "7e49767170adfe9905a045249c9e3fdb97b0fd5750adf3eaa78f2928591d107a"
+    },
+    {
+      "key": "coccinelle",
+      "displayName": "Coccinelle",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/cocinelle.png",
+      "sha256": "9707d33ed2ce61eea58c28e03c9fce9aea11807b47d7c7c2248881a8af3c9ce4"
+    },
+    {
+      "key": "conad",
+      "displayName": "Conad",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/conad.jpg",
+      "sha256": "fdd622d700f1427096dcb9a701cfccd6b8e836a05f6039ff3508df6eae480b34"
+    },
+    {
+      "key": "deborahmilano",
+      "displayName": "Deborah Milano",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/DeborahMilano.jpg",
+      "sha256": "500e0dfc1b38fa659bae2116f8179a9e0bc76223885eb947b6d39d098a0c2c9e"
+    },
+    {
+      "key": "decathlon",
+      "displayName": "Decathlon",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/decathlon.jpg",
+      "sha256": "b38f34b0c2cced8465d77ea7db5a49bf72e4c0ee1a695fc4de6b3ed070a21a05"
     },
     {
       "key": "douglas",
       "displayName": "Douglas",
-      "url": "https://raw.githubusercontent.com/TUO-UTENTE/logo-catalog/main/logos/douglas.png",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/douglas.png",
       "sha256": "94260da7205f95344d7693d6c90008cc76e81cdd6ef0b37ea6e2c6d5d19510e7"
+    },
+    {
+      "key": "drmax",
+      "displayName": "Dr.Max",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/drmax.png",
+      "sha256": "cba5ffd7b79b5fff0c1addfee25845cdbfbf9cfccec5ab40b32a3d0c7661a46b"
     },
     {
       "key": "eataly",
       "displayName": "Eataly",
-      "url": "https://raw.githubusercontent.com/TUO-UTENTE/logo-catalog/main/logos/eataly.png",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/eataly.png",
       "sha256": "0cfa841a394c4b7e952e37b31446f990ce622987bc1717caa51212e32822e514"
+    },
+    {
+      "key": "elenamiro",
+      "displayName": "Elena Miro",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/elenamiro.jpg",
+      "sha256": "d224f9e838db62c565606f4c866622944efc553955a02da3df112ddbc07f7b02"
+    },
+    {
+      "key": "enilive",
+      "displayName": "Enilive",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/enilive.jpg",
+      "sha256": "a46b5c97354d930dc10a281cb84ad81caed24c47b21149862b5c20e4fb1e7aa7"
     },
     {
       "key": "esselunga",
       "displayName": "Esselunga",
-      "url": "https://raw.githubusercontent.com/TUO-UTENTE/logo-catalog/main/logos/esselunga.png",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/esselunga.png",
       "sha256": "cbb312806eef2ff8233b5bb1d688bd572680653380d4607894fa293224b1404c"
+    },
+    {
+      "key": "ethos",
+      "displayName": "Ethos",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/ethos.png",
+      "sha256": "a57ffbfe42e1f85e98fcfe7f2937a3fa7f20cf95a99c5da84a4b4ce6e7e54073"
+    },
+    {
+      "key": "euronics",
+      "displayName": "Euronics",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/euronics.png",
+      "sha256": "8afbed15c04ace50c48aacab864599bd333377e2a7c37118cd40dfb7559a6d1c"
+    },
+    {
+      "key": "facit",
+      "displayName": "Facit",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/Facit.png",
+      "sha256": "535b81014ecaac4b106a428bad96a0083ea209f877f763d65ef69e0b01570126"
+    },
+    {
+      "key": "feltrinelli",
+      "displayName": "Feltrinelli",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/feltrinelli.png",
+      "sha256": "851c5666a67309b7680dea73c7410e9b27d430f15bfdfa21964c948dc5ea0f69"
+    },
+    {
+      "key": "fiorellarubino",
+      "displayName": "Fiorella Rubino",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/fiorellarubino.png",
+      "sha256": "da91d2934449d40e59476d541815ef851b8ae36e15018d196b29259593a9e915"
+    },
+    {
+      "key": "galbusera",
+      "displayName": "Galbusera",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/galbusera.jpg",
+      "sha256": "59b4c3614b0e7306821837514488acfc292796e27f093ea641505da4334b97b0"
+    },
+    {
+      "key": "giardineria",
+      "displayName": "Giardineria",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/giardineria.jpg",
+      "sha256": "5f04a9bdaa81a020f092457e9b19b710ef81436a3ecff13cbff839881877e811"
+    },
+    {
+      "key": "giuntialpunto",
+      "displayName": "Giunti al Punto",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/giuntialpunto.jpg",
+      "sha256": "affed0cbcd1e698690a1abecb321716126e801822c89f84ac24e07b6c0bb6405"
+    },
+    {
+      "key": "ibs",
+      "displayName": "IBS",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/ibs.png",
+      "sha256": "88f7ec35fe3c2b8d3a323aefac7410e97608cfd5cf2d5ecdacb3af7190209171"
+    },
+    {
+      "key": "ido",
+      "displayName": "iDO",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/ido.png",
+      "sha256": "9ae45decb37573403131f1c2967b61f2f55227bbb69177327785f8c11af43c89"
+    },
+    {
+      "key": "igea",
+      "displayName": "Igea",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/farmaciaigea.png",
+      "sha256": "eb6ae4536a53245a804490073fefee0dca355eda27d590901a3587e390620a9e"
+    },
+    {
+      "key": "igico",
+      "displayName": "IGI&CO",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/igi%26co.jpg",
+      "sha256": "72936422b0629d59026fbfad74b0b310c3c8cad54cb709f8c214cd0e8baaed11"
+    },
+    {
+      "key": "ilgigante",
+      "displayName": "Il Gigante",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/ilgigante.png",
+      "sha256": "300b44d75e7a4089752ec1591c140a6e2235b786e202e5344775647b75e28680"
+    },
+    {
+      "key": "iper",
+      "displayName": "Iper",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/iperlagrandei.png",
+      "sha256": "d74c0081acd0b66456deabf94aa58c9c9f9f30c3d6c8a6cc445d85541fb4fee7"
+    },
+    {
+      "key": "isoladeitesori",
+      "displayName": "L Isola dei Tesori",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/lisoladeitesori.png",
+      "sha256": "2d284f2c5382195411d3fbe8627c878b2912041460fb12b88316ae69ce3db757"
+    },
+    {
+      "key": "italo",
+      "displayName": "Italo",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/italo.png",
+      "sha256": "79a3cf2b1d6d115b13b98e5be9268d90ba5cc04380b8a19a4bce946cc18d70b2"
+    },
+    {
+      "key": "kiabi",
+      "displayName": "Kiabi",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/kiabi.png",
+      "sha256": "80bbe19207abac36df4aa1bc1b07c32c034cba30fbd481ccd946ca35ac190e26"
+    },
+    {
+      "key": "latuacard",
+      "displayName": "La Tua Card",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/latuacard.jpg",
+      "sha256": "cc337faa9ce777c3c74f355c7064df7b3a0988e5796755ac659337340558956e"
+    },
+    {
+      "key": "libreriecoop",
+      "displayName": "Librerie Coop",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/LIBRERIE.COOP.png",
+      "sha256": "23d8224dc0acbd421f9beeecaf1d4a55e66c1c7eb3a96705ad7189937d5b739a"
     },
     {
       "key": "lidl",
       "displayName": "Lidl",
-      "url": "https://raw.githubusercontent.com/TUO-UTENTE/logo-catalog/main/logos/lidl.png",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/lidl.png",
       "sha256": "6cd457050dfc9f3a8eaf6250df1bb08615936f68a2f96e3c71906ceee43b6197"
     },
     {
+      "key": "marcopoloclub",
+      "displayName": "Marco Polo Club",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/MarcoPoloClub.jpg",
+      "sha256": "b78902e6cb7203daacc6db0dbbbb7019db15bcb7fa517b5865c5ead384b28609"
+    },
+    {
+      "key": "marionnaud",
+      "displayName": "Marionnaud",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/marionnaud.jpg",
+      "sha256": "0d70ed72735c05bf21c4eb4d6a04fd8d2a9acdab7e56317ab8e1e8c67f221cca"
+    },
+    {
+      "key": "maxfriends",
+      "displayName": "MAX Friends",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/maxfactory.png",
+      "sha256": "aaa4dc2655b059006f8cdc2cb4a8fb3fd7f6f89bfa35a1814aa53386a2a3ec39"
+    },
+    {
+      "key": "md",
+      "displayName": "MD",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/md.png",
+      "sha256": "9d7cc3895bf6539c92733cbdd3778960b055a1ae499038369e3422bf5c74d702"
+    },
+    {
+      "key": "migross",
+      "displayName": "Migross",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/migross.png",
+      "sha256": "9e8ce239ee5264d947c08b6de14756fc78281aa1331990d39343ffb8d8ae35d4"
+    },
+    {
+      "key": "milanoptics",
+      "displayName": "Milano Optics",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/milanoptics.png",
+      "sha256": "98f5af95500e68b55b05b0d9a4161debe5c11c32ac15d6f17415bbc262a869c6"
+    },
+    {
+      "key": "moby",
+      "displayName": "Moby",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/moby.png",
+      "sha256": "2cd7a447fac3c20132a503df53ae8d11ec9b726f3169353614c1326354471ef5"
+    },
+    {
+      "key": "mondadori",
+      "displayName": "Mondadori",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/mondadori.jpg",
+      "sha256": "17a73bdb4da5dc9e60015f44c9fea37366f88a6f8db5d52c1cb6d8578071ec8a"
+    },
+    {
+      "key": "navigare",
+      "displayName": "Navigare",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/navigare.png",
+      "sha256": "247bb4f56df94de98af6f7d905b92b9445ed56e4acfd2464918fb2187b7046d2"
+    },
+    {
+      "key": "nectar",
+      "displayName": "Nectar",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/ectar.png",
+      "sha256": "e1d0646a3376d3220d657d23a82db7963d44ae19bee6142337894d62d6b116f7"
+    },
+    {
+      "key": "nunalie",
+      "displayName": "Nuna Lie",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/nunalie.png",
+      "sha256": "f62ec28840505ae5f7ebcfffff0fec964ad89df3b35683ae0b71c468ccd9bc18"
+    },
+    {
       "key": "obi",
-      "displayName": "Obi",
-      "url": "https://raw.githubusercontent.com/TUO-UTENTE/logo-catalog/main/logos/obi.png",
+      "displayName": "OBI",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/obi.png",
       "sha256": "99abae30b8535f3c39a2146b045770a5fec537e9593d490161f89393d928d5e2"
+    },
+    {
+      "key": "oldwildwest",
+      "displayName": "Old Wild West",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/oldwildwest.png",
+      "sha256": "65d48572b7dc7242f6ee975d2d42fbcd6091a7040bacfb236cd5029fc2c9bdbf"
+    },
+    {
+      "key": "paniate",
+      "displayName": "Paniate",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/paniate.jpeg",
+      "sha256": "53f000f22b22b8026965c5461a47a9030811ee6d3a592b13701c1a7ec708f5cf"
+    },
+    {
+      "key": "payback",
+      "displayName": "Payback",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/payback.png",
+      "sha256": "ad10a562931f8aac59eb0642e3f7df07d6f27c9b5026c9fa49dd23ed186dfa9c"
+    },
+    {
+      "key": "penny",
+      "displayName": "Penny",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/Penny.png",
+      "sha256": "6fdf225bda58b10360727bc2a178e9819528555814f84cd26179ed11850e1bf0"
+    },
+    {
+      "key": "piadineria",
+      "displayName": "La Piadineria",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/piadineria.png",
+      "sha256": "8d3d7dd2069c605977ec8695deed5df48539e8288610bdf641d9e56968da363b"
+    },
+    {
+      "key": "piazzaitalia",
+      "displayName": "Piazza Italia",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/piazza%20italia.jpg",
+      "sha256": "6e76f600b65d14ef80fc961e7bff6943c5516cc7faf6fa0035c7f3003269534d"
+    },
+    {
+      "key": "pinalli",
+      "displayName": "Pinalli",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/pinalli.png",
+      "sha256": "cc722d7952d8efa2ff7e1047f60581138fc3762aa364ff3a77d6e44bc0b16a23"
+    },
+    {
+      "key": "pittarosso",
+      "displayName": "PittaRosso",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/pittarosso.png",
+      "sha256": "bfedd860451b020b071138c11ab975885b95272eb82450d61bbea17b29b0c720"
+    },
+    {
+      "key": "pubblistore",
+      "displayName": "Pubbli Store",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/pubblistore.png",
+      "sha256": "6e4e89f1a1788e3844d4b7a84e17de7002f2aa8d96f6bafb34e37ebfb218d0d7"
+    },
+    {
+      "key": "pupa",
+      "displayName": "Pupa Milano",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/Pupa.jpg",
+      "sha256": "74f48cf3b5374dd0ec604e1725e5396456d9531b84b00dc2ee54b1ce2ffb9db0"
+    },
+    {
+      "key": "q8",
+      "displayName": "Q8",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/q8.png",
+      "sha256": "7a305991332b15b61b497a2773edfb245922b5fd963aec8dbc5730085361cbad"
     },
     {
       "key": "reclame",
       "displayName": "Reclame",
-      "url": "https://raw.githubusercontent.com/TUO-UTENTE/logo-catalog/main/logos/reclame.png",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/reclame.png",
       "sha256": "2f92ce8befa15bdefbddb6b4e623c4e11b07c728224253f31e662a029854fd61"
+    },
+    {
+      "key": "replay",
+      "displayName": "Replay",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/Replay.png",
+      "sha256": "0c38daba6d6da1f5ac9a7a54c443c76ab29d58f3895a59b3b5df206b0fd1412b"
+    },
+    {
+      "key": "resole",
+      "displayName": "Re Sole",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/resole.jpg",
+      "sha256": "ac2723d6f710dab06d0061c89ba49018e2db590127d0b974525879a07f769576"
+    },
+    {
+      "key": "rinascimento",
+      "displayName": "Rinascimento",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/rinascimento.png",
+      "sha256": "185f173955df35e93d81119d84494b4d96edc2f32cdf471740996a60a6f44b25"
+    },
+    {
+      "key": "risparmiocasa",
+      "displayName": "Risparmio Casa",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/risparmio%20casa.png",
+      "sha256": "b2d5c01ecb611b819e389b7b43facb31f0489d8e74d2c1a057ee9aa6f38c8f66"
+    },
+    {
+      "key": "ritmoshoes",
+      "displayName": "Ritmo Shoes",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/ritmo.png",
+      "sha256": "5b64f13a500402883109fe92d9f42883be352427173fcd561dc7be9e305a31b7"
+    },
+    {
+      "key": "roadhouse",
+      "displayName": "Roadhouse",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/roadhouse.png",
+      "sha256": "e2810834ada2884af0e9deb3145d1ff8efbdb954804a2f24dc9cc1622a3a7ca4"
+    },
+    {
+      "key": "salmoiraghiandvigano",
+      "displayName": "Salmoiraghi & Vigano",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/salmoiraghiandvigano.png",
+      "sha256": "7bd421d4053885f9901d129b46278559630f88f17f1b886a622f393327fc57e8"
+    },
+    {
+      "key": "saporedimare",
+      "displayName": "Sapore di Mare",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/SaporediMare.jpg",
+      "sha256": "31863a87816afb64118039a2ad5537c0e488a08b81dfe6d709138cbcd907d649"
+    },
+    {
+      "key": "saturn",
+      "displayName": "Saturn",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/Saturn.png",
+      "sha256": "51e55efc14084043d164cec95a6ad6e3a4bc9f320b56d2a34e1c4095e254a41b"
+    },
+    {
+      "key": "scalomilano",
+      "displayName": "Scalo Milano",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/scalomilano.png",
+      "sha256": "41bc943f61c124d6f3412710d9a399754b5979f2195a9f1088abeab70f4c711f"
+    },
+    {
+      "key": "sephora",
+      "displayName": "Sephora",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/sephora.png",
+      "sha256": "c119f153c71fcb59cbfd9cbce84d87ac4c1402e1b8cf4966196aaaba62a1e70e"
+    },
+    {
+      "key": "shell",
+      "displayName": "Shell",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/shell.jpg",
+      "sha256": "7369c7fc6b9820f108306e6ba2651d0eb9ea64f642c26bda27190bb3cd395ee5"
+    },
+    {
+      "key": "stroili",
+      "displayName": "Stroili",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/stroili.jpg",
+      "sha256": "6603c63ab25b23b96f96edf49825470b543c3af044fadfb27e1a7ff456210582"
+    },
+    {
+      "key": "tallyweijl",
+      "displayName": "Tally Weijl",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/TallyWeijl.jpg",
+      "sha256": "5ab12442cc2fe5c840bb97bffd9b54129a5ef68607547d949116a3e2781a3eeb"
+    },
+    {
+      "key": "terranova",
+      "displayName": "Terranova",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/terranova.png",
+      "sha256": "53ca7c0e276777426203404da103dbb4a889c03573aac434d84cac557882917c"
     },
     {
       "key": "tigros",
       "displayName": "Tigros",
-      "url": "https://raw.githubusercontent.com/TUO-UTENTE/logo-catalog/main/logos/tigros.png",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/tigros.png",
       "sha256": "56647dd24222bdd5402e271778ba7fd7e701e4e5d8ce5f08c4b15cb2629fc502"
+    },
+    {
+      "key": "totalerg",
+      "displayName": "TotalErg",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/totalerg.jpg",
+      "sha256": "fab2cacb592b6fafadb44e19ce2838719eaf78e6ebc4af5f0a95ad9991d2682a"
+    },
+    {
+      "key": "triumph",
+      "displayName": "Triumph",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/triumph.png",
+      "sha256": "e63eb5c87b76b384c0eaf4939b860ae0f9ca875dd2514c8b102552547cbdcb35"
+    },
+    {
+      "key": "unes",
+      "displayName": "Unes",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/unes.png",
+      "sha256": "aaab0492865e47a42794907a5850bfc3633b56d0ddbc63799525af02e78418dc"
+    },
+    {
+      "key": "unieuro",
+      "displayName": "Unieuro",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/unieuro.png",
+      "sha256": "6a12458d573437555fc138c43741996fa053f94d2a63ad2d6b773e85ea5f9ec5"
+    },
+    {
+      "key": "virginactive",
+      "displayName": "Virgin Active",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/virginactive.png",
+      "sha256": "0ae2a59103e755a0774384fcfc617a5efcb72fb8c4b8fbb97b73ee07679aab9c"
+    },
+    {
+      "key": "viridea",
+      "displayName": "Viridea",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/viridea.jpg",
+      "sha256": "8099978cad9199bb053197a74cfda46081d92005892905bf1a6ce02415bbe0be"
+    },
+    {
+      "key": "wycon",
+      "displayName": "Wycon",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/Wycon.jpg",
+      "sha256": "08e916ad6d6eaab36d27a83d473b9dfa92d9efd2056dbcea228af38259fb99ed"
+    },
+    {
+      "key": "yamamay",
+      "displayName": "Yamamay",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/Yamamay.jpg",
+      "sha256": "7a2aec06accd126b5851665e30e64953c72a537b7339b63e7b647dcba3b02f90"
+    },
+    {
+      "key": "yvesrocher",
+      "displayName": "Yves Rocher",
+      "url": "https://raw.githubusercontent.com/Markciccio/logo-catalog/main/logos/YvesRocher.jpg",
+      "sha256": "0c20f062df17ab14963e8d3ca43d2e65a846b2e5b222969eb4c7e48990af759b"
     }
   ]
 }
